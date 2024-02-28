@@ -1,0 +1,11 @@
+.tarolo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.termek {
+    border: 1px solid black;
+    padding: 10px;
+    flex: 0 0 20%;
+}
